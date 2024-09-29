@@ -14,6 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, 브루클린")
+            Text("Hello PR 연습")
         }
         .padding()
     }
