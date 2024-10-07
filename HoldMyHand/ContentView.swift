@@ -13,6 +13,8 @@ struct ContentView: View {
             
             Text("헬롱")
             
+            Text("마파두부")
+            
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
